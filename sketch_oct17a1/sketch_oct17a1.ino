@@ -8,9 +8,9 @@
 #define id_wi "DESKTOP-2QKRA7D 8956"
 
 
-#define UR_TOKEN_BOT "5850504219:AAEJP495pr3XOtbY_YRLLmxhOBgNizrJamo" // we are creating telegram bot.
+#define UR_TOKEN_BOT "" // we are creating telegram bot.
 #define pa_wi "00000000"
-String g_sc_id = "AKfycbynsT55u-UxtLq3BVkiEgs9VszLZz6sKNfDA5VdsJZSVFMBkXeydn59CSlc5t4pOTFm"; // here we have to pass deploy id of ss.
+String g_sc_id = ""; // here we have to pass deploy id of ss.
 #define ID_OF_CHAT "1302934180"  // this is unique of everyone so it will be accesible from particular's mobile.
 
 const unsigned long time_bot = 1000; 
